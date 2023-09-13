@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470713281101",
+    "project_id": "talkit-feb8e",
+    "storage_bucket": "talkit-feb8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470713281101:android:522695520cc0f4d4bf8a04",
+        "android_client_info": {
+          "package_name": "com.example.mirshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470713281101-7d9rd8ot0o0t6spfoiudt9u0eaprks0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mirshop",
+            "certificate_hash": "df7f08a0d997ab567bd1dddbbf26f42a51fd7aaf"
+          }
+        },
+        {
+          "client_id": "470713281101-bl7c9333aej8d865l8tfloqitdsjur58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT-Fgp7QgtGYYfPW0OvSY4O3g78I3Dk9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470713281101-bl7c9333aej8d865l8tfloqitdsjur58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
